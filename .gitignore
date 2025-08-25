@@ -1,4 +1,10 @@
 node_modules/
 dist/
 .env
+.env.local
+.env.production
 prisma/dev.db
+.vercel
+*.log
+coverage/
+.nyc_output/
